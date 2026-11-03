@@ -22,4 +22,4 @@ Accomplished Software Engineer with a total of 6 years in software development, 
 ---
 
 ### 📊 GitHub Stats
-![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=MertKok95&show_icons=true&theme=radium&v=1)
+![Mert's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MertKok95&theme=radium)
